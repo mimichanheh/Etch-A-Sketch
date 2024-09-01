@@ -1,0 +1,1 @@
+A simple project, consisting of a 16x16 grid that can change its number of squares according to user's input.
